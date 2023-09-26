@@ -5,7 +5,7 @@ This is a USSD application project for mobile banking using PHP /Laravel.
 
 ## Features of the System :
 
-  ### User Sign Up.
-  ### User Login using 4 digit Code.
-  ### User authentication using a 4 digit PIN code.
-###  USSD menu display.
+  👉 User Sign Up.
+  👉 User Login using 4 digit Code.
+  👉 User authentication using a 4 digit PIN code.
+  👉 USSD menu display.
