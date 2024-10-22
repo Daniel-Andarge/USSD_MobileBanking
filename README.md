@@ -1,4 +1,4 @@
-# USSD Mobile Baking application 
+# BankUSSD: A Mobile Banking Solution 
 
 This USSD application is developed to showcase user authentication through a PIN code, followed by a USSD menu display upon successful login. It serves as a mobile banking solution built on the PHP/Laravel framework.
 
